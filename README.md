@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left">
-<img height="170" src="file:///Users/varyeon/Downloads/ezgif-585931adcc04a58f.gif" />
+<img width="498" height="282" alt="image" src="https://github.com/user-attachments/assets/fed466ee-ab93-4a8b-9be0-e7961a247c76" />
 </div>
