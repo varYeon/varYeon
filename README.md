@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="left">
-<img width="498" height="282" alt="image" src="https://github.com/user-attachments/assets/fed466ee-ab93-4a8b-9be0-e7961a247c76" />
+<img width="498" height="282" alt="image" src="https://imagehost9.online-image-editor.com/oie_upload/images/2841246160bUW6Xd/2851154JxZEMC0K.gif" />
+
+  
 </div>
