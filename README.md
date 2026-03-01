@@ -1,5 +1,7 @@
-<h3 align="left">varYeon</h3>
+<h1 align="">varYeon</h3>
 <img align="right" height="200" src="https://github.com/varYeon/varYeon/blob/main/1112857a0FU9FA7.gif" />
+
+<br clear="right"/>
 
 <div align="left">
   <a href="https://velog.io/@tndusb52">
@@ -9,8 +11,6 @@
     <img
       src="https://img.shields.io/badge/xjkooy100@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </div>
-
-<br clear="right"/>
 
 ---
 
@@ -42,6 +42,7 @@
 
 <h3 align="left">Tools</h3>
 <div align="left">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
@@ -49,10 +50,4 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />
 </div>
 
-<br>
-
-<div align="left">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
-</div>
-
-<br>
+---
