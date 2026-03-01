@@ -3,7 +3,8 @@
   <div align="center">
       
 ```js
-console.log("Junior Frontend Developer");
+var sooYeon = "Junior Frontend Developer!"
+
 ```
 
 </div>
