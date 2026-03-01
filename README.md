@@ -1,7 +1,3 @@
-varYeon 👋
-
----
-
 <h3 align="left">varYeon</h3>
 <img align="right" height="200" src="https://github.com/varYeon/varYeon/blob/main/1112857a0FU9FA7.gif" />
 
