@@ -5,7 +5,7 @@
 
 <div align="left">
   <a href="https://velog.io/@tndusb52">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" height="30"/>
   </a>
   <a href="mailto:xjkooy100@gmail.com">
     <img
