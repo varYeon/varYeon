@@ -11,7 +11,7 @@ var sooYeon = "Junior Frontend Developer!"
 
 ---
 
-<div align="center" height="170">
+<div align="center" height="100">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyZXcxMDkxaXF2MzFubnB5YWVhZWk0MGxiZHE0M3U5eWQ0cnJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxES0P0wADBV5Msx0X/giphy.gif" />
 <!-- https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFwdG4zNXlubXRvYnVtNzV5aXFjYmN2eWM0aWN4aDAyendsdDcxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rZmWH1k7ESg3ccoUeP/giphy.gif -->
 </div>
