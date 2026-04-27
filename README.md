@@ -11,7 +11,10 @@ var sooYeon = "Junior Frontend Developer!"
 
 ---
 
-  
+<div align="center" height="170">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVyZXcxMDkxaXF2MzFubnB5YWVhZWk0MGxiZHE0M3U5eWQ0cnJiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UxES0P0wADBV5Msx0X/giphy.gif" />
+</div>
+
 <h3 align="center">📂 Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
