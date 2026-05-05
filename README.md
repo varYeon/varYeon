@@ -39,6 +39,7 @@ var sooYeon = "Junior Frontend Developer!"
 <div align="center">
     <img src="https://img.shields.io/badge/TanStack Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=zustand&logoColor=%2361DAFB"/>
 </div>
 
 <br>
