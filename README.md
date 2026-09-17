@@ -17,8 +17,8 @@ var sooYeon = "Junior Frontend Developer!"
 ---
 <h3 align="center">👩‍💻 About Me</h3>
 
-<div align="center">
-  <p>여러 전환점을 거쳐 개발을 시작했고,</p>
+<div align="center"> 
+  <p>안녕하세요🙇‍♀️</p>
   <p>낯선 환경에서도 배우고 부딪히며 하는 성장을 즐기는 프론트엔드 개발자입니다.</p>
 </div>
 
