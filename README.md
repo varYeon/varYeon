@@ -14,13 +14,13 @@ var sooYeon = "Junior Frontend Developer!"
 
 </div>
 
----
+<!-- ---
 <h3 align="center">👩‍💻 About Me</h3>
 
 <div align="center"> 
   <p>안녕하세요🙇‍♀️</p>
   <p>낯선 환경에서도 배우고 부딪히며 하는 성장을 즐기는 프론트엔드 개발자입니다.</p>
-</div>
+</div> -->
 
 ---
 
@@ -37,8 +37,8 @@ var sooYeon = "Junior Frontend Developer!"
 
 <div align="center">  
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div>
 
 <br>
@@ -52,16 +52,16 @@ var sooYeon = "Junior Frontend Developer!"
 
 <br>
 
-<h3 align="center">📂 Tools</h3>
+<!-- <h3 align="center">📂 Tools</h3>
 <div align="center">
-  <!-- <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" /> -->
+  <!-- <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" /> 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" />
-</div>
+</div> -->
 
 ---
 
